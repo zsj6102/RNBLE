@@ -1,0 +1,3 @@
+rootProject.name = 'BLe'
+
+include ':app', ':rn_ble'
